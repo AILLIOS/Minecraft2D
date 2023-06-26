@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da688fe82137a549ab055fd2f83b176, type: 3}
+  m_Name: Leaf
+  m_EditorClassIdentifier: 
+  tileName: leaf
+  wallVariant: {fileID: 0}
+  tileSprites:
+  - {fileID: 21300000, guid: 199119765d194134596263a1def5ab2b, type: 3}
+  inFront: 1
+  tileDrop: []
+  DropUse: 0
+  StackUse: 0
+  OreDrop: 0
+  toBreak: 1
+  tool_tobreak: 3
